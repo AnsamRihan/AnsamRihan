@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 -->
 <h1>About Me</h1>
 
-👋 Hi, I’m Ansam Rihan\n
-💻 I’m Currently Learning Full-Stack & UI/UX design\n
-🎓 Computer Engineer Student @ Birzeit University
+- 👋 Hi, I’m Ansam Rihan
+- 💻 I’m Currently Learning Full-Stack & UI/UX design
+- 🎓 Computer Engineer Student @ Birzeit University
 
 <br />
 
