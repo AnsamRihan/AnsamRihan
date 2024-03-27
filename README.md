@@ -1,11 +1,46 @@
-Hi 👋 My name is Ansam Rihan
-============================
+![Header](./github-header-image.png)
 
-* ✉️  You can contact me at [ansam.rihan2014@gmail.com](mailto:ansam.rihan2014@gmail.com)
-* 🧠  I'm learning Full-Stack and UI/UX design.
+<!--
 
-<a href="https://www.github.com/AnsamRihan" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/AnsamRihan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<h1>About Me</h1>
+
+👋 Hi, I’m Ansam Rihan
+💻 I’m Currently Learning Full-Stack & UI/UX design
+🎓 Computer Engineer Student @ Birzeit University
+
+<br />
+
+<h2 align="center">Quick Overview 📈</h2>
+  
+  <p align = "center">
+ 
+</p>
+
+
+<p align = "center">
+
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=shahdDaghash&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff" alt = "AnsamRihan's Languages/Frameworks" width = 400 />
+</p>
+
+
+<br />
+<h2 align="center">Visitors 👀</h2>
+<div align="center" >
+  <img src="https://profile-counter.glitch.me/AnsamRihan/count.svg"></img>
+</div>
+
+
 
 ### Skills
 
