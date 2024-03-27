@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 <h1>About Me</h1>
 
-👋 Hi, I’m Ansam Rihan
+👋 Hi, I’m Ansam Rihan 
 💻 I’m Currently Learning Full-Stack & UI/UX design
 🎓 Computer Engineer Student @ Birzeit University
 
