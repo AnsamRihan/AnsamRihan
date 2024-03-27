@@ -1,5 +1,3 @@
-![Header](./github-header-image.png)
-
 <!--
 
 Here are some ideas to get you started:
